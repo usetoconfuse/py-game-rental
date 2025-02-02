@@ -1,6 +1,6 @@
 
 1. This program is a stock management system for a game rental store.
-It can be used to view inventory, rent and return games, and prune unpopular games based on provided aggregate data.
+A full description is contained in the menu file.
 
 
 2. The test code for the following modules will alter databases, so please create backups before testing these modules:
