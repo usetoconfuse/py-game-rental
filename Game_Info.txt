@@ -1,0 +1,100 @@
+GameID,Platform,Genre,Title,Publisher,PurchaseDate
+ark01,Xbox,Survival,ARK Survival Ascended,Studio Wildcard,2023-08-17
+cod01,PlayStation,Action,COD,Activision,2023-08-18
+mhw01,PC,RPG,Monster Hunter World,Capcom,2023-08-20
+fifa01,Switch,Sports,FIFA,EA Sports,2023-08-17
+mhw02,Xbox,RPG,Monster Hunter World,Capcom,2023-08-25
+hk01,Xbox,Metroidvania,Hollow Knight,Team Cherry,2023-08-17
+cod02,Xbox,Action,COD,Activision,2023-08-18
+terr01,Switch,Sandbox,Terraria,Re-Logic,2023-08-21
+mhw03,PlayStation,RPG,Monster Hunter World,Capcom,2023-08-19
+drg01,PlayStation,Action,Deep Rock Galactic,Ghost Ship Games,2023-08-17
+fifa02,Xbox,Sports,FIFA,EA Sports,2023-08-17
+hk02,Xbox,Metroidvania,Hollow Knight,Team Cherry,2023-08-18
+fifa03,PlayStation,Sports,FIFA,EA Sports,2023-08-15
+terr02,Switch,Sandbox,Terraria,Re-Logic,2023-08-24
+cod03,PlayStation,Action,COD,Activision,2023-08-20
+fifa04,Xbox,Sports,FIFA,EA Sports,2023-08-23
+mc01,PC,Sandbox,Minecraft,Mojang Studios,2023-08-20
+mhw04,PC,RPG,Monster Hunter World,Capcom,2023-08-20
+hk03,Switch,Metroidvania,Hollow Knight,Team Cherry,2023-08-23
+cod04,PlayStation,Action,COD,Activision,2023-08-23
+mc02,PlayStation,Sandbox,Minecraft,Mojang Studios,2023-12-14
+mhw05,PlayStation,RPG,Monster Hunter World,Capcom,2023-10-15
+drg02,PC,Action,Deep Rock Galactic,Ghost Ship Games,2023-08-29
+mhw06,PlayStation,RPG,Monster Hunter World,Capcom,2023-10-24
+mc03,Xbox,Sandbox,Minecraft,Mojang Studios,2023-10-10
+mhw07,PC,RPG,Monster Hunter World,Capcom,2023-11-22
+hk04,PC,Metroidvania,Hollow Knight,Team Cherry,2023-12-14
+fifa05,PlayStation,Sports,FIFA,EA Sports,2023-11-01
+ark02,Xbox,Survival,ARK Survival Ascended,Studio Wildcard,2023-09-10
+mc04,PlayStation,Sandbox,Minecraft,Mojang Studios,2023-11-18
+fifa06,Switch,Sports,FIFA,EA Sports,2023-09-09
+fifa07,PlayStation,Sports,FIFA,EA Sports,2023-10-12
+mc05,Xbox,Sandbox,Minecraft,Mojang Studios,2023-10-29
+cod05,Xbox,Action,COD,Activision,2023-10-02
+hk05,Switch,Metroidvania,Hollow Knight,Team Cherry,2023-12-03
+hk06,Xbox,Metroidvania,Hollow Knight,Team Cherry,2023-10-29
+terr03,PlayStation,Sandbox,Terraria,Re-Logic,2023-11-16
+hk07,Xbox,Metroidvania,Hollow Knight,Team Cherry,2023-10-07
+cod06,Xbox,Action,COD,Activision,2023-10-23
+terr04,PC,Sandbox,Terraria,Re-Logic,2023-11-24
+drg03,Xbox,Action,Deep Rock Galactic,Ghost Ship Games,2023-10-31
+mhw08,PC,RPG,Monster Hunter World,Capcom,2023-09-29
+cod07,Xbox,Action,COD,Activision,2023-10-07
+ark03,PlayStation,Survival,ARK Survival Ascended,Studio Wildcard,2023-11-12
+cod08,Xbox,Action,COD,Activision,2023-10-30
+mc06,PC,Sandbox,Minecraft,Mojang Studios,2023-10-06
+ark04,PC,Survival,ARK Survival Ascended,Studio Wildcard,2023-10-17
+drg04,PC,Action,Deep Rock Galactic,Ghost Ship Games,2023-11-22
+hk08,PC,Metroidvania,Hollow Knight,Team Cherry,2023-11-25
+hk09,PlayStation,Metroidvania,Hollow Knight,Team Cherry,2023-09-13
+mc07,Switch,Sandbox,Minecraft,Mojang Studios,2023-11-23
+cod09,PC,Action,COD,Activision,2023-12-13
+mc08,Switch,Sandbox,Minecraft,Mojang Studios,2023-09-24
+mc09,PlayStation,Sandbox,Minecraft,Mojang Studios,2023-10-23
+cod10,PC,Action,COD,Activision,2023-10-20
+cod11,PC,Action,COD,Activision,2023-11-27
+mc10,Switch,Sandbox,Minecraft,Mojang Studios,2023-09-06
+mc11,Switch,Sandbox,Minecraft,Mojang Studios,2023-11-04
+drg05,Xbox,Action,Deep Rock Galactic,Ghost Ship Games,2023-10-11
+drg06,PC,Action,Deep Rock Galactic,Ghost Ship Games,2023-09-06
+terr05,PlayStation,Sandbox,Terraria,Re-Logic,2023-09-15
+mc12,Xbox,Sandbox,Minecraft,Mojang Studios,2023-08-26
+terr06,Switch,Sandbox,Terraria,Re-Logic,2023-09-09
+mhw09,Xbox,RPG,Monster Hunter World,Capcom,2023-10-15
+hk10,Xbox,Metroidvania,Hollow Knight,Team Cherry,2023-11-26
+terr07,PlayStation,Sandbox,Terraria,Re-Logic,2023-10-30
+mhw10,PC,RPG,Monster Hunter World,Capcom,2023-12-04
+terr08,Switch,Sandbox,Terraria,Re-Logic,2023-10-16
+mc13,Switch,Sandbox,Minecraft,Mojang Studios,2023-10-09
+mc14,PC,Sandbox,Minecraft,Mojang Studios,2023-09-29
+terr09,Switch,Sandbox,Terraria,Re-Logic,2023-09-07
+terr10,PC,Sandbox,Terraria,Re-Logic,2023-09-04
+hk11,Xbox,Metroidvania,Hollow Knight,Team Cherry,2023-12-11
+ark05,PlayStation,Survival,ARK Survival Ascended,Studio Wildcard,2023-10-12
+mc15,Xbox,Sandbox,Minecraft,Mojang Studios,2023-12-07
+cod12,Xbox,Action,COD,Activision,2023-11-08
+mhw11,PC,RPG,Monster Hunter World,Capcom,2023-09-20
+mc16,PlayStation,Sandbox,Minecraft,Mojang Studios,2023-12-06
+mc17,Xbox,Sandbox,Minecraft,Mojang Studios,2023-11-15
+cod13,Xbox,Action,COD,Activision,2023-08-26
+mhw12,PC,RPG,Monster Hunter World,Capcom,2023-11-01
+mc18,Xbox,Sandbox,Minecraft,Mojang Studios,2023-12-03
+ark06,Xbox,Survival,ARK Survival Ascended,Studio Wildcard,2023-09-10
+fifa08,Switch,Sports,FIFA,EA Sports,2023-10-01
+drg07,PlayStation,Action,Deep Rock Galactic,Ghost Ship Games,2023-10-07
+fifa09,Switch,Sports,FIFA,EA Sports,2023-09-05
+drg08,PC,Action,Deep Rock Galactic,Ghost Ship Games,2023-10-09
+mhw13,PC,RPG,Monster Hunter World,Capcom,2023-09-11
+mc19,PC,Sandbox,Minecraft,Mojang Studios,2023-10-30
+ark07,PlayStation,Survival,ARK Survival Ascended,Studio Wildcard,2023-11-20
+cod14,PlayStation,Action,COD,Activision,2023-12-12
+fifa10,Xbox,Sports,FIFA,EA Sports,2023-10-01
+ark08,PlayStation,Survival,ARK Survival Ascended,Studio Wildcard,2023-10-26
+terr11,PC,Sandbox,Terraria,Re-Logic,2023-12-08
+ark09,Xbox,Survival,ARK Survival Ascended,Studio Wildcard,2023-10-17
+terr12,PC,Sandbox,Terraria,Re-Logic,2023-10-16
+drg09,Xbox,Action,Deep Rock Galactic,Ghost Ship Games,2023-09-22
+cod15,PlayStation,Action,COD,Activision,2023-08-25
+drg10,PlayStation,Action,Deep Rock Galactic,Ghost Ship Games,2023-11-28

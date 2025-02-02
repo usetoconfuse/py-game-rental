@@ -1,0 +1,119 @@
+GameID,Rating,Comments
+terr02,5,One of my favourites!
+fifa09,4,So satisfying!
+hk08,4,Impressive visuals.
+mc12,4,Great fun!
+ark03,3,Could be better.
+cod07,2,Boring.
+fifa06,5,One of my favourites!
+mhw08,5,One of my favourites!
+mhw11,3,Pretty fun.
+hk07,5,One of my favourites!
+cod02,4,Impressive visuals.
+drg02,5,Amazing game 10/10!
+ark02,4,So satisfying!
+mhw13,5,One of my favourites!
+fifa08,4,So satisfying!
+hk03,4,Great fun!
+cod01,5,Amazing game 10/10!
+cod06,4,Impressive visuals.
+hk09,5,Amazing game 10/10!
+drg09,5,Amazing game 10/10!
+cod15,4,Impressive visuals.
+drg08,4,So satisfying!
+mhw12,3,Could be better.
+fifa01,5,Game of the year!
+mhw03,3,It's alright.
+drg03,2,Not my cup of tea.
+hk01,4,Great fun!
+mc06,1,I want my money back!
+mhw01,4,Great fun!
+mhw08,4,So satisfying!
+mhw03,3,Pretty fun.
+fifa09,3,Pretty fun.
+ark02,5,One of my favourites!
+mhw11,2,Not my cup of tea.
+mhw08,5,Amazing game 10/10!
+cod10,3,Could be better.
+fifa03,4,Impressive visuals.
+mc14,1,Awful game.
+drg01,1,Runs terribly.
+mc06,3,It's alright.
+drg08,4,So satisfying!
+terr02,4,Great fun!
+ark07,3,It's alright.
+ark06,5,One of my favourites!
+fifa01,5,One of my favourites!
+mc10,5,One of my favourites!
+fifa10,4,Impressive visuals.
+mc01,2,Boring.
+mc05,5,Amazing game 10/10!
+terr02,3,Could be better.
+mhw03,4,So satisfying!
+mc05,4,Great fun!
+mc01,5,One of my favourites!
+fifa03,1,Runs terribly.
+cod04,3,Pretty fun.
+mhw02,1,Awful game.
+terr10,3,Pretty fun.
+drg02,5,One of my favourites!
+ark06,3,Could be better.
+mc09,1,I want my money back!
+mhw02,5,Game of the year!
+terr09,3,Could be better.
+cod11,5,One of my favourites!
+cod07,5,One of my favourites!
+cod02,5,Game of the year!
+ark02,5,Game of the year!
+ark05,2,Boring.
+mc07,5,Amazing game 10/10!
+terr07,1,Awful game.
+mc01,5,Game of the year!
+cod06,1,Runs terribly.
+terr10,5,Amazing game 10/10!
+cod08,3,It's alright.
+cod13,5,Amazing game 10/10!
+mc10,4,Great fun!
+terr09,3,Pretty fun.
+ark08,5,One of my favourites!
+fifa04,5,Amazing game 10/10!
+mhw09,1,I want my money back!
+mc13,3,Pretty fun.
+cod07,2,Boring.
+hk02,1,I want my money back!
+mc14,4,Great fun!
+fifa09,4,So satisfying!
+hk07,3,Could be better.
+drg08,2,Not my cup of tea.
+mc13,4,So satisfying!
+mhw11,4,Impressive visuals.
+mc13,5,Game of the year!
+mhw08,4,So satisfying!
+terr06,3,It's alright.
+cod03,4,Impressive visuals.
+hk07,4,Great fun!
+drg01,4,Impressive visuals.
+fifa08,4,Great fun!
+cod02,2,Boring.
+terr06,2,Feels unfinished.
+mhw08,3,It's alright.
+terr05,3,Could be better.
+cod02,5,Amazing game 10/10!
+mhw06,1,Awful game.
+mc06,4,Great fun!
+hk10,2,Feels unfinished.
+mc08,3,It's alright.
+cod10,2,Feels unfinished.
+fifa01,5,Game of the year!
+mhw03,4,Great fun!
+mhw11,1,Awful game.
+cod08,4,Impressive visuals.
+mhw07,3,Pretty fun.
+ark08,2,Boring.
+ark09,3,It's alright.
+fifa04,2,Feels unfinished.
+mc17,5,Amazing game 10/10!
+fifa10,5,Game of the year!
+hk02,4,So satisfying!
+terr10,3,Could be better.
+mhw01,5,Amazing game 10/10!
